@@ -42,6 +42,11 @@ export const Heading = styled.h1`
 font-size:60px;
 color:#fff;
 margin-bottom:20px;
+@media screen and (max-width: 960px) {
+text-align:center;
+width:400px;
+margin-inline:auto;
+}
 `;
 export const Para = styled.p`
 font-size:16px;
@@ -49,6 +54,11 @@ color:#fff;
 width:800px;
 margin-bottom:20px;
 line-height:20px;
+@media screen and (max-width: 960px) {
+text-align:center;
+width:400px;
+margin-inline:auto;
+}
 `; 
 
 
