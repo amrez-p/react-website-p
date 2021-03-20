@@ -28,8 +28,8 @@ const Home = () => {
         <>
          <HomeContainer>
              <HomeWrapper>
-             <Heading>Hello World</Heading>
-             <Para>Lead the way</Para>
+             <Heading>Hello My Name is Amrez Pirzada</Heading>
+             <Para>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam auctor sapien ut sem blandit, eu posuere elit auctor. Donec erat ipsum, gravida vel condimentum et, iaculis non est.Integer pellentesque vitae enim quis vulputate. Mauris ornare risus vitae rutrum vulputate. Nulla velit lacus, auctor vel blandit in, aliquet ut enim</Para>
              <Button to="/about">Learn More</Button>
              </HomeWrapper>
 

@@ -34,13 +34,13 @@ const Footer = () => {
                              <FootPara>M: am@gmail.com</FootPara>
                         </FootInfo_Items>
                         <IconWrapper>
-                            <SocialLinks href='/'>
+                            <SocialLinks href='https://github.com/amrez-p' target='_blank'>
                                 <FaGithub />
                             </SocialLinks>
-                            <SocialLinks href='/'>
+                            <SocialLinks href='https://www.linkedin.com/in/amrez-pirzada-520a56202/' target='_blank'>
                                 <FaLinkedin />
                             </SocialLinks>
-                            <SocialLinks href='/'>
+                            <SocialLinks href='https://dribbble.com/amrez' target='_blank'>
                                 <FaDribbble />
                             </SocialLinks>
                      </IconWrapper>

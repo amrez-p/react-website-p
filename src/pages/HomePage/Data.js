@@ -41,10 +41,14 @@ margin-inline:auto;
 export const Heading = styled.h1`
 font-size:60px;
 color:#fff;
+margin-bottom:20px;
 `;
 export const Para = styled.p`
 font-size:16px;
 color:#fff;
+width:800px;
+margin-bottom:20px;
+line-height:20px;
 `; 
 
 

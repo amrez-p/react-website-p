@@ -21,17 +21,18 @@ font-size:35px;
 margin-left:-60px;
 }
 `;
-export const Bars =styled.div`
+
+export const Bars = styled.div`
 display:none;
 @media screen and (max-width:960px){
-  display:block;
+   display:block;
    position: absolute;
     top: 0;
     right: 0;
     transform: translate(-100%, 60%);
     font-size: 1.4rem;
     cursor: pointer;
-  }
+  
 }
 
 `;
